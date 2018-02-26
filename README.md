@@ -1,2 +1,1 @@
-# frontend_starterkit
-starterkit
+frontend_starterkit
